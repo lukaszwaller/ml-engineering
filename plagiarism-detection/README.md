@@ -1,5 +1,5 @@
 # Plagiarism Detection
-![Alt Text](https://github.com/lukaszwaller/ml-engineering/assets/plagiarism-detection.jpg)
+![Alt Text](https://github.com/lukaszwaller/ml-engineering/blob/main/assets/plagiarism-detection.jpg)
 
 ## Overview
 
