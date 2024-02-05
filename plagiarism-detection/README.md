@@ -1,5 +1,6 @@
 # Plagiarism Detection
-![Alt Text](https://github.com/lukaszwaller/ml-engineering/blob/main/assets/plagiarism-detection.jpg)
+<img src="https://github.com/lukaszwaller/ml-engineering/blob/main/assets/plagiarism-detection.jpg" alt="plagiagrism detection" width="300"/>
+*This image was generated with AI, Morty! You know, cutting-edge stuff from another dimension, burp?*
 
 ## Overview
 
