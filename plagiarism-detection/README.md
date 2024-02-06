@@ -33,9 +33,7 @@ To calculate containment, follow these steps:
 
 2. **Formula:**
    - Apply the containment formula:
-     ```
-     Containment = (Intersection of N-grams) / (Total N-grams in Submitted Text)
-     ```
+   $$\frac{\sum count(ngram_A) \cap count(ngram_S)}{\sum count(ngram_A)}$$
 
 3. **Interpretation:**
    - If the two texts share no common n-grams, the containment is 0.
